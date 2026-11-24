@@ -1,0 +1,14 @@
+﻿[22:50:06.618] === minimap.asi log ===
+[22:50:06.618] minimap.asi starting, module=6C1F0000
+[22:50:06.618] plugin folder ini: D:\Users\jxgm\Documents\deepseek-harness\default-workspace\gta_radar_asi\build\minimap_config.ini
+[22:50:06.634] config: Enable=1 ForceSquare=1 KeepRadarDisc=1 HotReload=0 IgnoreVersionCheck=1
+[22:50:06.634] config: Anchor=TopRight Units=Pixels X=11.0 Y=22.0 Width=222.0 Height=222.0
+[22:50:06.634] version: check disabled by config (IgnoreVersionCheck=1)
+[22:50:06.634] thunk: 23-byte stub at 04370000 -> 6C1F1450 (2 args)
+[22:50:06.634] thunk: 20-byte stub at 04380000 -> 6C1F1980 (1 args)
+[22:50:06.634] patch: 0x0058585C is not inside the game image
+[22:50:06.634] hook: 0x005832F0 is not inside the game image (unsupported exe?)
+[22:50:06.634] hook: 0x00583480 is not inside the game image (unsupported exe?)
+[22:50:06.634] minimap: hooking TransformRadarPointToScreenSpace failed
+[22:50:06.634] RadarInit failed - the game is left untouched
+[22:50:07.842] minimap: shut down, everything restored
